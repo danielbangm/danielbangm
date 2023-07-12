@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure Compute and Networking</b>
-  - [Azure ressources: Prerequisites and ressource creation](https://github.com/danielbangm/azure-ressources)
+  - [Azure ressources: Prerequisites and ressources creation](https://github.com/danielbangm/azure-ressources)
   - [Azure activities: Performing Activities on the Network](https://github.com/danielbangm/azure-network)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/danielbangm/osticket-prereqs)
