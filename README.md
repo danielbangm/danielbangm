@@ -12,8 +12,8 @@
 - <b>Virtual Private Network</b>
   - [VPN: VPN Setup and Usage](https://github.com/danielbangm/VPN-ProtonVPN)
 - <b>Active Directory in Azure</b>
-  - [Configuring and Setting up Active Directory with Azure VMs](https://github.com/danielbangm/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/danielbangm/azure-network-protocols)
+  - [Active Directory: Configuring and Setting up](https://github.com/danielbangm/configure-ad)
+  - [Active Directory: Post-Installation Configuration}(https://github.com/danielbangm/Users-ad)
 
 <h2>🤳Connect with me:</h2>
 
