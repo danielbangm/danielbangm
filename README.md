@@ -13,7 +13,7 @@
   - [VPN: VPN Setup and Usage](https://github.com/danielbangm/VPN-ProtonVPN)
 - <b>Active Directory in Azure</b>
   - [Active Directory: Configuring and Setting up](https://github.com/danielbangm/configure-ad)
-  - [Active Directory: Post-Installation Configuration}(https://github.com/danielbangm/Users-ad)
+  - [Active Directory: Post-Installation Configuration](https://github.com/danielbangm/Users-ad)
 
 <h2>🤳Connect with me:</h2>
 
