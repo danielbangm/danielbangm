@@ -14,6 +14,7 @@
 - <b>Active Directory in Azure</b>
   - [Active Directory: Configuring and Setting up](https://github.com/danielbangm/configure-ad)
   - [Active Directory: Post-Installation Configuration](https://github.com/danielbangm/Users-ad)
+  - [Active Directory: Generate Names Create Users](https://github.com/danielbangm/Generate-names-Users-ad)
 
 <h2>🤳Connect with me:</h2>
 
