@@ -15,7 +15,8 @@
   - [Active Directory: Configuring and Setting up](https://github.com/danielbangm/configure-ad)
   - [Active Directory: Post-Installation Configuration](https://github.com/danielbangm/Users-ad)
   - [Active Directory: Generate Names Create Users](https://github.com/danielbangm/Generate-names-Users-ad)
-
+- <b>Domain Name System</b>
+  - [DNS: Building Intuition for DNS](https://github.com/danielbangm/DNS-intuition)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
