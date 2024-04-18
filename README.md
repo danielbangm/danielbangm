@@ -19,6 +19,16 @@
   - [DNS: Building Intuition for DNS](https://github.com/danielbangm/DNS-intuition)
 - <b>Network File Share and Permissions</b>
   - [Network File Shares and Permissions: Creating sample File Shares with various Permissions](https://github.com/danielbangm/NFS-File)
+
+<h2>💂🏾💻🔐 Cyber Security Projects:</h2>
+
+- <b>SIEM: Azure Sentinel Map with Live Cyber Attacks!</b>
+  - [Azure Ressources: Prerequisites and Installation](https://github.com/danielbangm/SIEM-ressources)
+  - []()
+  - []()
+  - []()
+  
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
