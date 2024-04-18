@@ -20,7 +20,7 @@
 - <b>Network File Share and Permissions</b>
   - [Network File Shares and Permissions: Creating sample File Shares with various Permissions](https://github.com/danielbangm/NFS-File)
 
-<h2>💂🏾💻🔐 Cyber Security Projects:</h2>
+<h2>💂🏾 Cyber Security Projects:</h2>
 
 - <b>SIEM: Azure Sentinel Map with Live Cyber Attacks!</b>
   - [Azure Ressources: Prerequisites and Installation](https://github.com/danielbangm/SIEM-ressources)
