@@ -25,7 +25,7 @@
 - <b>SIEM: Azure Sentinel Map with Live Cyber Attacks!</b>
   - [Azure Ressources: Prerequisites and Installation](https://github.com/danielbangm/SIEM-ressources)
   - [Setup map in Azure sentinel with Latitude and Longitude (or country)](https://github.com/danielbangm/map-in-sentinel)
-  - [Extracting file in custom logs and Finish setting up map in Sentinel](https://github.com/danielbangm/Extracting-File)
+  - [Extracting file from custom logs and Finish setting up map in Sentinel](https://github.com/danielbangm/Extracting-File)
   - []()
 - <b></b>
   - []()
