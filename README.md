@@ -24,9 +24,8 @@
 
 - <b>SIEM: Azure Sentinel Map with Live Cyber Attacks!</b>
   - [Azure Ressources: Prerequisites and Installation](https://github.com/danielbangm/SIEM-ressources)
-  - [Setup map in Azure sentinel with Latitude and Longitude (or country)](https://github.com/danielbangm/map-in-sentinel)
-  - [Extracting file from custom logs and Finish setting up map in Sentinel](https://github.com/danielbangm/Extracting-File)
-  - []()
+  - [Configure Log Analytics Workspace to ingest Custom logs containing geographic Information(latitude. longitude)](https://github.com/danielbangm/map-in-sentinel)
+  - [Configure Azure Sentinel(Microsoft Cloud SIEM) Workbook to display global attack data(RDP brute force) on World Map according to physical location and magnitude of attacks.](https://github.com/danielbangm/Extracting-File)
 - <b></b>
   - []()
   - []()
