@@ -28,8 +28,8 @@
   - [Configure Azure Sentinel(Microsoft Cloud SIEM) Workbook to display global attack data(RDP brute force)on world Map](https://github.com/danielbangm/Extracting-File)
 - <b>OpenVAS Vulnerability Management</b>
   - [Set up Ressources: Prerequisites and Installation](https://github.com/danielbangm/Kali-Linux-VM)
-  - []()
-  - []()
+  - [Scanning Metasploitable2 for Vulnerabilities with OpenVAS](https://github.com/danielbangm/Scan-Metasploitable2-for-vulnerabilities)
+  - [Analyzing the Scan](https://github.com/danielbangm/Analyzing-the-Scan)
   
 
 <h2>🤳Connect with me:</h2>
