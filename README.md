@@ -31,9 +31,9 @@
   - [Scanning Metasploitable2 for Vulnerabilities with OpenVAS](https://github.com/danielbangm/Scan-Metasploitable2-for-vulnerabilities)
   - [Analyzing the Scan](https://github.com/danielbangm/Analyzing-the-Scan)
 - <b>John the Ripper: Password Cracking</b>
-  - [John the Ripper: Building Ressources].(https://github.com/danielbangm/Johntheripper-ressources)
-  - [].()
-  - [].()
+  - [John the Ripper: Building Ressources](https://github.com/danielbangm/Johntheripper-ressources)
+  - []()
+  - []()
   
 
 <h2>🤳Connect with me:</h2>
