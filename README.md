@@ -32,7 +32,7 @@
   - [Analyzing the Scan](https://github.com/danielbangm/Analyzing-the-Scan)
 - <b>John the Ripper: Password Cracking</b>
   - [John the Ripper: Building Ressources](https://github.com/danielbangm/Johntheripper-ressources)
-  - []()
+  - [Set up and Crack with John the Ripper](https://github.com/danielbangm/Set-up-and-Crack-)
   - []()
   
 
