@@ -33,7 +33,7 @@
 - <b>John the Ripper: Password Cracking</b>
   - [John the Ripper: Building Ressources](https://github.com/danielbangm/Johntheripper-ressources)
   - [Set up and Crack with John the Ripper](https://github.com/danielbangm/Set-up-and-Crack-)
-  - [Analizing the Decrypted file](https://github.com/danielbangm/Analyst-of-decripted-file)
+  - [Analyzing the Decrypted file](https://github.com/danielbangm/Analyst-of-decripted-file)
   
 
 <h2>🤳Connect with me:</h2>
