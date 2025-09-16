@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Daniel, a USA DevOps engineer 👋🏼:
+# Hello World!, I'm Daniel, a cloud developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.danielbangm/danielbangm.io)<br>👨🏼‍🎓 <br>
 
 
