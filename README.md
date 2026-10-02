@@ -1,4 +1,4 @@
-# Hi, I'm Daniel! 👋
+# Hi, I'm Daniel!
 Cloud & DevOps Engineer | AWS | Linux | Kubernetes | Automation
 
 ## ☁️ Cloud & DevOps Projects
