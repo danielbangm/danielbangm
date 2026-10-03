@@ -7,12 +7,14 @@ Cloud & DevOps Engineer | AWS | Linux | Kubernetes | Automation
   - Migrated and deployed a WordPress application on AWS
   - Linux, EC2, Apache, MySQL, PHP, networking
 
-- **Amazon EKS Kubernetes Project**
-  - Deployed WordPress to Amazon EKS using Helm
-  - Exposed the application using an AWS Load Balancer
-  - Configured Kubernetes HPA
-  - Load tested with Siege
-  - Automatically scaled from 1 → 5 pods
+### ☁️ Cloud & Kubernetes Projects
+
+- **[Amazon EKS Kubernetes Autoscaling Project](https://github.com/danielbangm/aws-eks-kubernetes-autoscaling)**
+  - Built and deployed a WordPress workload on Amazon EKS using Helm
+  - Exposed the application through an AWS Load Balancer
+  - Implemented HPA with a 50% CPU utilization target
+  - Performed load testing with Siege
+  - Demonstrated automatic scaling from 1 → 5 pods
 
 - **Terraform Infrastructure as Code**
   - AWS infrastructure provisioning with Terraform
