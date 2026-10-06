@@ -10,7 +10,7 @@ Cloud & DevOps Engineer | AWS | Linux | Kubernetes | Automation
   - Performed load testing with Siege
   - Demonstrated automatic scaling from 1 → 5 pods
  
-- **[AWS ECS Fargate CI/CD Platform](https://github.com/danielbangm/devops-code-challenge1)**
+- **[AWS ECS Fargate CI/CD Platform](https://github.com/danielbangm/aws-ecs-terraform-cicd)**
   - 🐳 Containerized frontend and backend services with Docker
   - 🏗️ Provisioned the AWS environment with Terraform
   - ⚖️ Configured an Application Load Balancer with path-based routing
