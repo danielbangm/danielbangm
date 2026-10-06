@@ -11,7 +11,6 @@ Cloud & DevOps Engineer | AWS | Linux | Kubernetes | Automation
   - Demonstrated automatic scaling from 1 → 5 pods
  
 - **[AWS ECS Fargate CI/CD Platform](https://github.com/danielbangm/devops-code-challenge1)**
-  -Built a containerized React + Node.js application platform on AWS ECS Fargate with fully automated infrastructure and deployments.
   - 🐳 Containerized frontend and backend services with Docker
   - 🏗️ Provisioned the AWS environment with Terraform
   - ⚖️ Configured an Application Load Balancer with path-based routing
