@@ -26,7 +26,7 @@ I enjoy taking an application from source code to a running cloud environment �
 
 **[AWS EKS — DevOps & GitOps Infrastructure](https://github.com/danielbangm/spark-eks-devops)**
 
-Built a containerized Flask application on Amazon EKS with Terraform-managed infrastructure, Kubernetes autoscaling, AWS Application Load Balancer, Jenkins CI/CD, and GitHub Actions–Argo CD GitOps automation.
+Built a dating-app (SPARK) containerized Flask-based application on Amazon EKS with Terraform-managed infrastructure, Kubernetes autoscaling, AWS Application Load Balancer, Jenkins CI/CD, and GitHub Actions–Argo CD GitOps automation.
 
 **[AWS ECS — Terraform & CI/CD Automation](https://github.com/danielbangm/aws-ecs-terraform-cicd)**
 
