@@ -24,11 +24,11 @@ I enjoy taking an application from source code to a running cloud environment �
 
 ### Featured Projects
 
-**[AWS EKS — DevOps & GitOps Infrastructure](https://github.com/danielbangm/spark-eks-devops)**
+**[AWS EKS DevOps & GitOps Infrastructure](https://github.com/danielbangm/spark-eks-devops)**
 
 Built a dating-app (SPARK) containerized Flask-based application on Amazon EKS with Terraform-managed infrastructure, Kubernetes autoscaling, AWS Application Load Balancer, Jenkins CI/CD, and GitHub Actions–Argo CD GitOps automation.
 
-**[AWS ECS — Terraform & CI/CD Automation](https://github.com/danielbangm/aws-ecs-terraform-cicd)**
+**[AWS ECS Terraform & CI/CD Automation](https://github.com/danielbangm/aws-ecs-terraform-cicd)**
 
 Built an automated AWS ECS Fargate deployment using Terraform, Docker, Amazon ECR, Application Load Balancing, and CI/CD pipelines.
 
