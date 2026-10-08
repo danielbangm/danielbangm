@@ -8,7 +8,7 @@ My work focuses on AWS infrastructure, container orchestration, Infrastructure a
 
 I enjoy taking an application from source code to a running cloud environment — provisioning the infrastructure, containerizing the application, automating deployments, and troubleshooting whatever breaks along the way.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Cloud:** AWS (EC2, VPC, EKS, ECS, ECR, S3, IAM, CloudWatch)
 
@@ -22,7 +22,7 @@ I enjoy taking an application from source code to a running cloud environment �
 
 **Networking & Systems:** Linux, TCP/IP, DNS, Load Balancing, Security Groups, VPC Networking
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[AWS EKS — DevOps & GitOps Infrastructure](https://github.com/danielbangm/spark-eks-devops)**
 
@@ -36,7 +36,7 @@ Built an automated AWS ECS Fargate deployment using Terraform, Docker, Amazon EC
 
 Deployed containerized workloads to Amazon EKS using Helm and configured Kubernetes Horizontal Pod Autoscaling.
 
-### ⚡ What I'm Building
+### What I'm Building
 
 - Automated AWS infrastructure
 - Containerized and highly available applications
