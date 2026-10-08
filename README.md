@@ -1,41 +1,49 @@
-# Hi, I'm Daniel!
-Cloud & DevOps Engineer | AWS | Linux | Kubernetes | Automation
+# Hey, I'm Daniel 👋
 
-### ☁️ Cloud & DevOps Projects
+### Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 
-- **[Amazon EKS Kubernetes Autoscaling Project](https://github.com/danielbangm/aws-eks-kubernetes-autoscaling)**
-  - Built and deployed a WordPress workload on Amazon EKS using Helm
-  - Exposed the application through an AWS Load Balancer
-  - Implemented HPA with a 50% CPU utilization target
-  - Performed load testing with Siege
-  - Demonstrated automatic scaling from 1 → 5 pods
- 
-- **[AWS ECS Fargate CI/CD Platform](https://github.com/danielbangm/aws-ecs-terraform-cicd)**
-  - 🐳 Containerized frontend and backend services with Docker
-  - 🏗️ Provisioned the AWS environment with Terraform
-  - ⚖️ Configured an Application Load Balancer with path-based routing
-  - ☁️ Deployed independent frontend and backend services on ECS Fargate
-  - 📦 Used Amazon ECR for private Docker image storage
-  - 📈 Configured CPU-based ECS Auto Scaling from **1 → 4 tasks**
-  - 🔄 Built a Jenkins CI/CD pipeline for automated Docker → ECR → ECS deployments
-  - ⚡ Implemented an alternative deployment pipeline with GitHub Actions
-  - 🔐 Used IAM roles and GitHub Secrets to keep AWS credentials out of source control
-  - 🛠️ Diagnosed and resolved Jenkins memory/OOM issues during production builds
+I build, automate, and troubleshoot cloud infrastructure because I genuinely enjoy understanding how systems work behind the scenes.
 
-- **AWS Cloud Migration Project**
-  - Migrated and deployed a WordPress application on AWS
-  - Linux, EC2, Apache, MySQL, PHP, networking
+My work focuses on AWS infrastructure, container orchestration, Infrastructure as Code, CI/CD automation, and system reliability.
 
-- **Terraform Infrastructure as Code**
-  - AWS infrastructure provisioning with Terraform
+I enjoy taking an application from source code to a running cloud environment — provisioning the infrastructure, containerizing the application, automating deployments, and troubleshooting whatever breaks along the way.
 
-- **Ansible Automation**
-  - Linux server configuration and automation
+### 🛠️ Tech Stack
 
-- **Jenkins CI/CD**
-  - Automated build and deployment pipelines
+**Cloud:** AWS (EC2, VPC, EKS, ECS, ECR, S3, IAM, CloudWatch)
 
-## 🛠️ Technologies
+**Infrastructure as Code:** Terraform, CloudFormation
 
-AWS • Linux • Docker • Kubernetes • EKS • Helm • Terraform •
-Ansible • Jenkins • Git • GitHub • Python • Bash
+**Containers & Orchestration:** Docker, Kubernetes, Helm
+
+**CI/CD & GitOps:** Jenkins, GitHub Actions, Argo CD
+
+**Automation & Scripting:** Python, Bash, Ansible
+
+**Networking & Systems:** Linux, TCP/IP, DNS, Load Balancing, Security Groups, VPC Networking
+
+### 🚀 Featured Projects
+
+**[AWS EKS — DevOps & GitOps Infrastructure](https://github.com/danielbangm/spark-eks-devops)**
+
+Built a containerized Flask application on Amazon EKS with Terraform-managed infrastructure, Kubernetes autoscaling, AWS Application Load Balancer, Jenkins CI/CD, and GitHub Actions–Argo CD GitOps automation.
+
+**[AWS ECS — Terraform & CI/CD Automation](https://github.com/danielbangm/aws-ecs-terraform-cicd)**
+
+Built an automated AWS ECS Fargate deployment using Terraform, Docker, Amazon ECR, Application Load Balancing, and CI/CD pipelines.
+
+**[Kubernetes Autoscaling with Amazon EKS](https://github.com/danielbangm/aws-eks-kubernetes-autoscaling)**
+
+Deployed containerized workloads to Amazon EKS using Helm and configured Kubernetes Horizontal Pod Autoscaling.
+
+### ⚡ What I'm Building
+
+- Automated AWS infrastructure
+- Containerized and highly available applications
+- CI/CD and GitOps delivery pipelines
+- Kubernetes scaling and reliability
+- Cloud monitoring and observability
+
+---
+
+*Build. Break. Troubleshoot. Automate. Repeat.*
